@@ -1,6 +1,6 @@
 # 🎈| Go!website 
 <h2>
-  <a href="https://jvrl18.github.io/about-me-html/">
+  <a href="https://jvrl18.github.io/Go-ws/public/home.html">
     ---> Acessar website
   </a>
 </h2>
